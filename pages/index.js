@@ -22,10 +22,10 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          👋 Hi, I’m @Yaguchi-Haruo
-          👀 I’m interested in Statistics, Machine Learning, AI, Data Science.
-          🌱 I’m currently learning how to use GCP.
-          📫 How to reach me https://twitter.com/haruo2177.
+          👋 こんにちは、やぐちはるおです。
+          👀 データ分析やってましたがいつの間にかインフラ方面に行ってました。
+          🌱 最近Next.jsいじってます。
+          📫 Twitterはコチラ https://twitter.com/haruo2177.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
